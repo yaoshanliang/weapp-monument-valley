@@ -1,0 +1,23 @@
+ 驱动器 D 中的卷没有标签。
+ 卷的序列号是 B448-1AF6
+
+ D:\ww1\assets\sound 的目录
+
+[.]
+[..]
+amb_prelude_start.mp3
+button_0.mp3
+button_1.mp3
+button_2.mp3
+fs_walk_leaves_A_05.mp3
+int_ending_landsend_finaldragger_rocks_01.mp3
+level2_bmg.mp3
+level2_end.mp3
+mother_flute_phrase_intro_sustain.mp3
+t.txt
+te.txt
+ui_nav_ping_default_pentatonic_pos_02.mp3
+ui_nav_ping_default_pentatonic_pos_03.mp3
+ui_nav_ping_default_pentatonic_pos_04.mp3
+              14 个文件      2,587,917 字节
+               2 个目录 474,354,540,544 可用字节
